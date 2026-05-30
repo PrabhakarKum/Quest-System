@@ -1,0 +1,11 @@
+IMPORTANT!!
+
+Third Party Assets:
+
+- Fonts
+
+NOTE: All fonts are part of a "Tittillium Web" Google Font Pack
+
+Font Download Reference Link: https://fonts.google.com/specimen/Titillium+Web?query=Tit
+
+Font License (SIL Open Font Licence) or (OFL) Reference Link: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
